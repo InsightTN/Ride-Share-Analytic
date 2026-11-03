@@ -57,18 +57,6 @@ This dashboard analyzes ride demand, driver performance, revenue, customer ratin
 
 
 
-Ride-Analytics-Dashboard/
-│
-├── Ride_Analytics_Dashboard.pbix      # Power BI report file
-├── SQL Scripts/
-│   ├── Create_Tables.sql
-│   ├── Data_Cleaning.sql
-│   └── KPI_Queries.sql
-├── Images/
-│   └── back.JPG
-├── README.md
-└── LICENSE
-text---
 
 ## How to Use
 
