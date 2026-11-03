@@ -4,7 +4,8 @@ A comprehensive **Power BI** dashboard powered by **SQL** that provides deep ins
 
 This dashboard analyzes ride demand, driver performance, revenue, customer ratings, weather impact, and location-based metrics to support data-driven decision making.
 
-<img width="588" height="563" alt="back" src="https://github.com/user-attachments/assets/87dcbf65-4768-4f10-a3e2-e487d3de01de" />
+<img width="702" height="692" alt="back 2" src="https://github.com/user-attachments/assets/28a55a0d-5fac-4d9c-b978-db7b7c566e6d" />
+
 
 ---
 
@@ -53,7 +54,8 @@ This dashboard analyzes ride demand, driver performance, revenue, customer ratin
 ---
 
 ## Project Structure
-<img width="588" height="563" alt="back" src="https://github.com/user-attachments/assets/cc1227de-314e-4ea7-b618-1de0945e3061" />
+<img width="696" height="697" alt="back 1" src="https://github.com/user-attachments/assets/db069c82-8b7d-402f-866a-bb14072267df" />
+
 
 
 
